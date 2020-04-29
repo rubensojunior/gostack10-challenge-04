@@ -16,7 +16,7 @@ Gostack is immersive training in technologies, react and react natively.</p>
 </p>
 
 <div>
-  <img src="repo/imgs/image1.png" alt="demo" height="425">
+  <img src="repo/imgs/image.png" alt="demo" height="425">
 </div>
 
 <hr />
