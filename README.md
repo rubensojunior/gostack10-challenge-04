@@ -1,55 +1,42 @@
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
 <h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+<br>
+Rocketseat - GoStack 10 - Challenge 04
 </h1>
 
-<h3 align="center">
-  Desafio 4: Introdução ao React
-</h3>
-
-<p align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
+<p align="center">
+This project was created to solve a challenge requested by Rocketseat. 
+Gostack is immersive training in technologies, react and react natively.</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-04?color=%2304D361">
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-04/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafio-04?style=social">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
 </p>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+<div>
+  <img src="repo/imgs/image1.png" alt="demo" height="425">
+</div>
 
-## :rocket: Sobre o desafio
+<hr />
 
-Crie uma aplicação do zero utilizando **Webpack, Babel, Webpack Dev Server e ReactJS**.
+## Features
 
-Nessa aplicação você irá desenvolver uma **interface** semelhante com a do **Facebook** utilizando React.
+- This project does not have features implemented, just layout.
 
-As informações contidas na interface são **estáticas** e não precisam refletir nenhuma API REST ou back-end.
+- ⚛️ **React Js** — A JavaScript library for building user interfaces
 
-### Tela da aplicação
+## Getting started
 
-![Facebook](https://github.com/Rocketseat/bootcamp-gostack-desafio-04/blob/master/.github/facebook.png)
+- Clone project > enter the project folder
+- run `yarn`
+- run `yarn dev`
 
-O layout não precisa ficar exatamente igual, você pode utilizar sua criatividade para modificar da maneira que preferir.
+## License
 
-O mais importante é que todos elementos apareçam em tela.
-
-O layout da aplicação está [nesse link](https://github.com/Rocketseat/bootcamp-gostack-desafio-04/blob/master/.github/layout.sketch) que pode ser aberto por essa ferramenta gratuita e online: https://www.figma.com/
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
 ---
 
-Proposto com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Created with passion by me 👨🏻‍💻
